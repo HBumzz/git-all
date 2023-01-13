@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 changed from cafe
-=======
 changed in home!
->>>>>>> 7c3366c61800b098e406c1796bc7da35c10f298b
